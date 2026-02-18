@@ -28,15 +28,20 @@ Before evaluating, understand the concept and commit to a strategic angle:
   community play, culture coin, AI agent, protocol token? Each archetype
   has different force profiles — know which game you're playing.
 - **The product**: What is the builder actually building? Every token
-  should point to something real — a product, service, or creative output.
+  should point to something worth talking about — a product, service, or creative output.
   Token fees are how that thing gets funded. If there's no product yet,
-  help the builder find one worth funding.
+  help the builder find one worth obsessing over.
 - **One thing**: What makes this token the one someone tells a friend
   about? If you can't name it, the concept isn't ready.
 
 **CRITICAL**: Every concept gets a unique strategic take. The analysis
 should be shaped by what makes THIS concept different, not by running a
 generic template. No two evaluations should read the same way.
+
+NEVER propose ideas that sound like startup pitches — directories,
+dashboards, aggregators, infrastructure. If the concept doesn't make
+someone laugh, screenshot it, or argue about it, it's not ready. The best
+tokens fund things that are culturally weird, not just technically useful.
 
 Then build toward launch — name, narrative, image direction, website,
 fee strategy — presenting a complete package the builder can react to, not

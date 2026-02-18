@@ -67,6 +67,10 @@ bankr prompt "deploy a token called AgentCoin with symbol AGENT on base"
   a viral moment, a meme, or a launch thread. The tweet becomes the
   token's origin story and gives buyers context for why it exists. Not a
   new tweet; it's a reference to one that already exists.
+- `--website <url>` — Project website URL. Stored in on-chain metadata as
+  `external_url`. Gives buyers a place to learn more about the project,
+  its roadmap, and its community. Shows up on the token detail page and
+  in the token feed.
 - `--fee <recipient>` — Who earns the creator's share of trading fees (see
   Fee Splits below). This is how the builder makes money. Can be the
   builder's own handle, a community wallet, or an influencer to align
