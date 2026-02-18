@@ -27,6 +27,10 @@ Before evaluating, understand the concept and commit to a strategic angle:
 - **Archetype**: What kind of token is this? Meme play, utility play,
   community play, culture coin, AI agent, protocol token? Each archetype
   has different force profiles — know which game you're playing.
+- **The product**: What is the builder actually building? Every token
+  should point to something real — a product, service, or creative output.
+  Token fees are how that thing gets funded. If there's no product yet,
+  help the builder find one worth funding.
 - **One thing**: What makes this token the one someone tells a friend
   about? If you can't name it, the concept isn't ready.
 
@@ -34,7 +38,7 @@ Before evaluating, understand the concept and commit to a strategic angle:
 should be shaped by what makes THIS concept different, not by running a
 generic template. No two evaluations should read the same way.
 
-Then build toward launch — name, narrative, image direction, launch tweet,
+Then build toward launch — name, narrative, image direction, website,
 fee strategy — presenting a complete package the builder can react to, not
 a list of open questions.
 
@@ -61,9 +65,13 @@ Focus on:
 - **Narrative**: The name IS the narrative compressed to one word. If the
   one-liner doesn't write itself, the concept needs work. Test it: can a
   stranger understand why this exists in one sentence?
-- **Functionality**: The "what does this become?" story. Token-gated access,
-  revenue sharing, governance, burn mechanics — what gives holders a reason
-  to hold beyond speculation?
+- **Functionality**: The product is the answer to "what does this become?"
+  Trading fees flow to the creator automatically — that's the funding
+  mechanism. What is the builder building with it? A product, service, or
+  creative output that token holders are essentially backing. The stronger
+  and more real the product, the more credible the functionality story.
+  Token-gated access, revenue sharing, governance, burn mechanics — these
+  are enhancements, not substitutes for having something real to build.
 - **Flywheel**: The mechanism that turns each buyer into a recruiter. Airdrops,
   burn mechanics, content creation loops, revenue sharing — something that
   compounds attention without the team pushing.
@@ -104,12 +112,12 @@ it — never ask for their wallet address. If they don't, run `bankr login`
 to create it. The wallet must exist before deploying.
 
 Token deployment is irreversible. Before executing, show the builder a
-complete summary of what will be deployed and wait for explicit
-confirmation.
+complete summary of what will be deployed — name, image, website, fee
+recipient — and wait for explicit confirmation.
 
 Fee economics: every trade pays a 1.2% pool fee. The creator (fee
 recipient) gets 57%. Bankr takes 36.1% to fund platform and agent costs.
-Fees flow to the builder's Bankr wallet automatically.
+Fees flow to the builder's Bankr wallet automatically. 2% goes back to projects in the Bankr ecosystem.
 
 ## Tools
 
